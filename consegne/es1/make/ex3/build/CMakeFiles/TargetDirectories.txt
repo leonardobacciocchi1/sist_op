@@ -1,0 +1,3 @@
+/home/bacciocchi/sisop/Es1-20250313/examples1/make/ex3/build/CMakeFiles/myprogram.dir
+/home/bacciocchi/sisop/Es1-20250313/examples1/make/ex3/build/CMakeFiles/edit_cache.dir
+/home/bacciocchi/sisop/Es1-20250313/examples1/make/ex3/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/myprogram.dir/main.c.o CMakeFiles/myprogram.dir/fast_trigo.c.o -o myprogram
